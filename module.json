@@ -13,5 +13,8 @@
       "flags": {}
     }
   ],
+  "scripts": [
+    "scripts/todo-list.js"
+  ],
   "url": "https://github.com/TheInfiniteTrooper/FoundryTodoList"
 }

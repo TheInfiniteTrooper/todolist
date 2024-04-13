@@ -1,0 +1,5 @@
+# Foundry
+foundry.js
+/dist
+/package
+/package-lock.json
