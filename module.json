@@ -1,0 +1,17 @@
+{
+  "id": "todolist",
+  "title": "TodoList",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Sample Module",
+  "authors": [
+    {
+      "name": "InfTrooper",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/TheInfiniteTrooper/FoundryTodoList"
+}
